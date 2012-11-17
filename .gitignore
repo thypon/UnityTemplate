@@ -18,6 +18,9 @@ Library/*
 [Tt]humbs.db
 *.DS_Store
 
+#Android binaries
+*.apk
+
 #Visual Studio files
 *.[Oo]bj
 *.user
